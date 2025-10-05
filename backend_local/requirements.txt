@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+python-dotenv
+deepface
+opencv-python
+nltk
+requests
+pydantic
+python-multipart
+httpx
+pyngrok
+transformers
+torch
+torchaudio
+SpeechRecognition
+pydub
