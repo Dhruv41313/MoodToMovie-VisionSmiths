@@ -74,5 +74,5 @@ This method runs both the backend and frontend on your local machine.
 ---
 ##  submissions
 
-* **Video Demo URL:** https://drive.google.com/file/d/1QQg8HK08gWI_cGzkgB03CBB7Vc20IDYZ/view?usp=sharing
+* **Video Demo URL:** https://drive.google.com/file/d/1_9z0guZTbqqxFZ8Ko-ukbLAtUXEbJJZo/view?usp=drivesdk
 * **Colab Notebook File:** The code for the cloud-powered backend is located in `/backend_colab/MoodToMovie_Backend.ipynb`.
