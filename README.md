@@ -74,5 +74,5 @@ This method runs both the backend and frontend on your local machine.
 ---
 ##  submissions
 
-* **Video Demo URL:** [Link to your video demo - e.g., YouTube, Loom]
+* **Video Demo URL:** https://drive.google.com/file/d/1QQg8HK08gWI_cGzkgB03CBB7Vc20IDYZ/view?usp=sharing
 * **Colab Notebook File:** The code for the cloud-powered backend is located in `/backend_colab/MoodToMovie_Backend.ipynb`.
